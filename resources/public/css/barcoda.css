@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+.pic {
+    margin: 0 auto;
+    display: none;
+    max-width: 450px;
+}
+
+input[type="file"] {
+    opacity: 0;
+    width: 307px;
+    height: 307px;
+    cursor: pointer;
+}
+
+.container {
+  margin: 0 10%;
+  padding-top: 50px;
+}
+
+.result {
+  text-align: center;
+  padding: 40px 0;
+  font-size: 2em;
+  color: rgba(92, 9, 9, 0.79);
+}
+
+.scanner { 
+  background:url(../img/scan-it.png) no-repeat 0 0; 
+  display: inline-block;
+}
+
