@@ -1,9 +1,10 @@
 # barcoda
 
-web app that can scan barcodes.
-can also be used from mobile devices using their cameras or existing images.
+web app that can scan barcodes<br/>
+can be used via browsers as well as from mobile devices using their cameras or existing images
 
-(spin off of [repp](https://github.com/tolitius/repp), but leaner and all Clojure/Script)
+spin off of [repp](https://github.com/tolitius/repp), but leaner and all Clojure/Script<br/>
+and originally created for Chariot Day to get people excited about *a* way to build web on Clojure
 
 ## what it does
 
